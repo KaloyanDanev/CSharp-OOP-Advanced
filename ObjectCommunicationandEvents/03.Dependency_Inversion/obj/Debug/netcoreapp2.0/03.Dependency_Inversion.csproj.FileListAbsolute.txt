@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ObjectCommunicationandEvents\03.Dependency_Inversion\bin\Debug\netcoreapp2.0\03.Dependency_Inversion.deps.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ObjectCommunicationandEvents\03.Dependency_Inversion\bin\Debug\netcoreapp2.0\03.Dependency_Inversion.runtimeconfig.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ObjectCommunicationandEvents\03.Dependency_Inversion\bin\Debug\netcoreapp2.0\03.Dependency_Inversion.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ObjectCommunicationandEvents\03.Dependency_Inversion\bin\Debug\netcoreapp2.0\03.Dependency_Inversion.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ObjectCommunicationandEvents\03.Dependency_Inversion\bin\Debug\netcoreapp2.0\03.Dependency_Inversion.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ObjectCommunicationandEvents\03.Dependency_Inversion\obj\Debug\netcoreapp2.0\03.Dependency_Inversion.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ObjectCommunicationandEvents\03.Dependency_Inversion\obj\Debug\netcoreapp2.0\03.Dependency_Inversion.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ObjectCommunicationandEvents\03.Dependency_Inversion\obj\Debug\netcoreapp2.0\03.Dependency_Inversion.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ObjectCommunicationandEvents\03.Dependency_Inversion\obj\Debug\netcoreapp2.0\03.Dependency_Inversion.AssemblyInfo.cs
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ObjectCommunicationandEvents\03.Dependency_Inversion\obj\Debug\netcoreapp2.0\03.Dependency_Inversion.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ObjectCommunicationandEvents\03.Dependency_Inversion\obj\Debug\netcoreapp2.0\03.Dependency_Inversion.pdb

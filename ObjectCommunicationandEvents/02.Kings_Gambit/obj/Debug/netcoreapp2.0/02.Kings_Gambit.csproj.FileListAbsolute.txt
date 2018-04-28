@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ObjectCommunicationandEvents\02.Kings_Gambit\bin\Debug\netcoreapp2.0\02.Kings_Gambit.deps.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ObjectCommunicationandEvents\02.Kings_Gambit\bin\Debug\netcoreapp2.0\02.Kings_Gambit.runtimeconfig.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ObjectCommunicationandEvents\02.Kings_Gambit\bin\Debug\netcoreapp2.0\02.Kings_Gambit.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ObjectCommunicationandEvents\02.Kings_Gambit\bin\Debug\netcoreapp2.0\02.Kings_Gambit.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ObjectCommunicationandEvents\02.Kings_Gambit\bin\Debug\netcoreapp2.0\02.Kings_Gambit.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ObjectCommunicationandEvents\02.Kings_Gambit\obj\Debug\netcoreapp2.0\02.Kings_Gambit.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ObjectCommunicationandEvents\02.Kings_Gambit\obj\Debug\netcoreapp2.0\02.Kings_Gambit.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ObjectCommunicationandEvents\02.Kings_Gambit\obj\Debug\netcoreapp2.0\02.Kings_Gambit.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ObjectCommunicationandEvents\02.Kings_Gambit\obj\Debug\netcoreapp2.0\02.Kings_Gambit.AssemblyInfo.cs
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ObjectCommunicationandEvents\02.Kings_Gambit\obj\Debug\netcoreapp2.0\02.Kings_Gambit.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\ObjectCommunicationandEvents\02.Kings_Gambit\obj\Debug\netcoreapp2.0\02.Kings_Gambit.pdb

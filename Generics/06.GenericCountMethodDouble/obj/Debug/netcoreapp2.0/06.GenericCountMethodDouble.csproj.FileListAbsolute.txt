@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Generics\06.GenericCountMethodDouble\bin\Debug\netcoreapp2.0\06.GenericCountMethodDouble.deps.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Generics\06.GenericCountMethodDouble\bin\Debug\netcoreapp2.0\06.GenericCountMethodDouble.runtimeconfig.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Generics\06.GenericCountMethodDouble\bin\Debug\netcoreapp2.0\06.GenericCountMethodDouble.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Generics\06.GenericCountMethodDouble\bin\Debug\netcoreapp2.0\06.GenericCountMethodDouble.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Generics\06.GenericCountMethodDouble\bin\Debug\netcoreapp2.0\06.GenericCountMethodDouble.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Generics\06.GenericCountMethodDouble\obj\Debug\netcoreapp2.0\06.GenericCountMethodDouble.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Generics\06.GenericCountMethodDouble\obj\Debug\netcoreapp2.0\06.GenericCountMethodDouble.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Generics\06.GenericCountMethodDouble\obj\Debug\netcoreapp2.0\06.GenericCountMethodDouble.AssemblyInfo.cs
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Generics\06.GenericCountMethodDouble\obj\Debug\netcoreapp2.0\06.GenericCountMethodDouble.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Generics\06.GenericCountMethodDouble\obj\Debug\netcoreapp2.0\06.GenericCountMethodDouble.pdb

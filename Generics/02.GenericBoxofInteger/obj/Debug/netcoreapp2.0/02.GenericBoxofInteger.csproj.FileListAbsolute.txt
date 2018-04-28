@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Generics\02.GenericBoxofInteger\bin\Debug\netcoreapp2.0\02.GenericBoxofInteger.deps.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Generics\02.GenericBoxofInteger\bin\Debug\netcoreapp2.0\02.GenericBoxofInteger.runtimeconfig.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Generics\02.GenericBoxofInteger\bin\Debug\netcoreapp2.0\02.GenericBoxofInteger.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Generics\02.GenericBoxofInteger\bin\Debug\netcoreapp2.0\02.GenericBoxofInteger.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Generics\02.GenericBoxofInteger\bin\Debug\netcoreapp2.0\02.GenericBoxofInteger.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Generics\02.GenericBoxofInteger\obj\Debug\netcoreapp2.0\02.GenericBoxofInteger.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Generics\02.GenericBoxofInteger\obj\Debug\netcoreapp2.0\02.GenericBoxofInteger.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Generics\02.GenericBoxofInteger\obj\Debug\netcoreapp2.0\02.GenericBoxofInteger.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Generics\02.GenericBoxofInteger\obj\Debug\netcoreapp2.0\02.GenericBoxofInteger.AssemblyInfo.cs
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Generics\02.GenericBoxofInteger\obj\Debug\netcoreapp2.0\02.GenericBoxofInteger.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Generics\02.GenericBoxofInteger\obj\Debug\netcoreapp2.0\02.GenericBoxofInteger.pdb
